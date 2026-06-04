@@ -1,6 +1,6 @@
-# 📚 AI Academic Assistant
+# CareerMind AI
 
-An intelligent RAG (Retrieval-Augmented Generation) system that helps students learn from their study materials using AI-powered question answering.
+AI-Powered Academic & Career Intelligence Platform
 
 ## 🎯 Features
 
