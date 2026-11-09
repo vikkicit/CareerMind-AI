@@ -16,7 +16,7 @@ AI-Powered Academic & Career Intelligence Platform
 ✨ **Advanced Features:**
 - 📋 **Resume Analyzer** - AI-powered resume analysis and ATS scoring
 - 🎯 **Job Description Matcher** - Compare resume vs job description with AI recommendations
-- 📊 **Interview Prep** - Generate interview questions and preparation tips
+- 📊 **Interview Prep** - Generate's interview questions and preparation tips
 
 ## 🏗️ Architecture
 
